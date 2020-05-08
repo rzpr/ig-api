@@ -24,3 +24,9 @@ localhost:8080/video.php?id=
 }
 
 ```
+
+# DEMO
+
+- http://api-rezzaapr.ga/profile.php?username=
+- http://api-rezzaapr.ga/profile.php?id=
+- http://api-rezzaapr.ga/profile.php?id=
