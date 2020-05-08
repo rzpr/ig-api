@@ -27,6 +27,6 @@ localhost:8080/video.php?id=
 
 # DEMO
 
-- http://api-rezzaapr.ga/profile.php?username=
-- http://api-rezzaapr.ga/profile.php?id=
-- http://api-rezzaapr.ga/profile.php?id=
+- http://api-rezzaapr.ga/ig_profile.php?username=
+- http://api-rezzaapr.ga/ig_image.php?id=
+- http://api-rezzaapr.ga/ig_video.php?id=
